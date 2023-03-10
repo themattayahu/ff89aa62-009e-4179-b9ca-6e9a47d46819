@@ -1,0 +1,8 @@
+https://www.theodinproject.com/
+https://www.freecodecamp.org/learn/
+https://cs50.harvard.edu/x/2023/
+https://www.udemy.com/course/the-complete-web-development-bootcamp/
+https://www.udemy.com/course/full-stack-web-development-bootcamp-with-mern-stack-projects/
+https://www.weetechsolution.com/blog/full-stack-developer-roadmap
+https://roadmap.sh/backend
+https://roadmap.sh/frontend
